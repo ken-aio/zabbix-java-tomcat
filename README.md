@@ -1,4 +1,4 @@
 zabbix-java-tomcat
 ==================
 
-Zabbix Template with Tomcat 7 monitoring settings
+This Repository is installing Zabbix Template with Tomcat 7 monitoring settings.
